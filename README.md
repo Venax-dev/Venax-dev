@@ -5,7 +5,7 @@
   
   <p>
     <a href="https://github.com/Venax">
-      <img src="https://img.shields.io/github/followers/Venax?label=Follow&style=social" />
+      <img src="https://img.shields.io/github/followers/Venax-dev?label=Follow&style=social" />
     </a>
   </p>
 </div>
