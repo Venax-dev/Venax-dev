@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Venax&fontSize=90&animation=fadeIn](https://capsule-render.vercel.app/api?type=soft&color=007ACC&height=200&section=header&text=Venax&fontSize=90&animation=fadeIn)" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=007ACC&height=200&section=header&text=Venax&fontSize=90&animation=fadeIn" />
   
   <h3>🚀 Cheat Developer & Cybersecurity Enthusiast</h3>
   
