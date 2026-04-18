@@ -1,16 +1,15 @@
-## Hi there 👋
+# ⚡ [NAME] @ ROOT
+---
 
-<!--
-**Venax-dev/Venax-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```bash
+$ sudo apt-get install skills
+Reading package lists... Done
+Building dependency tree... Done
 
-Here are some ideas to get you started:
+$ locate experience
+/root/experience/frontend: HTML, CSS, React, Vue
+/root/experience/backend: Python, Go, PostgreSQL, Redis
+/root/experience/tools: Git, Docker, Kubernetes, Jenkins
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$ cat contact_info.txt
+Status: Currently looking for new opportunities.
