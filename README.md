@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Venax&fontSize=90&animation=fadeIn" />
+  <img src="[https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Venax&fontSize=90&animation=fadeIn](https://capsule-render.vercel.app/api?type=soft&color=007ACC&height=200&section=header&text=Venax&fontSize=90&animation=fadeIn)" />
   
   <h3>🚀 Cheat Developer & Cybersecurity Enthusiast</h3>
   
@@ -30,7 +30,7 @@ I'm **Venax**, a developer focused on developing cheat software for educational 
 
 ### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venax&layout=compact&theme=vision-friendly-dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venax&layout=compact&theme=react&hide_border=true&title_color=007ACC&text_color=007ACC" width="48%" />
 </p>
 
 ---
