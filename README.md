@@ -35,7 +35,7 @@ I'm **Venax**, a developer focused on developing cheat software for educational 
 
 ---
 
-### 📫 Let's Connect
+### 📫 Contact
 * **Portfolio:** [Click here](guns.lol/yz3)
 * **Discord:** `xzko`
 
