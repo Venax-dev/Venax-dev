@@ -15,7 +15,7 @@
 ---
 
 ### ⚡ OVERVIEW
-> **`Venax`** — Focusing on low-level binary analysis, game security mechanics, and structural software architecture. Breaking code to understand how to build it bulletproof.
+> **`Venax`** — Focusing on custom drivers, video game cheats & malware analysis.
 
 ---
 
