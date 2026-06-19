@@ -19,7 +19,7 @@
 
 ---
 
-### 🛠 STACK & TOOLING
+### 🛠 SKILLS
 <p align="left">
   <img src="https://img.shields.io/badge/C++-313244?style=for-the-badge&logo=c%2B%2B&logoColor=b4befe" />
   <img src="https://img.shields.io/badge/C%23-313244?style=for-the-badge&logo=c-sharp&logoColor=b4befe" />
