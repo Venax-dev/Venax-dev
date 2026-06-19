@@ -37,7 +37,7 @@
 
 ---
 
-### 📫 COMMUNICATE
+### 📫 SOCIALS
 * **Discord:** `xzko`
 
 <br />
