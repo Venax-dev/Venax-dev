@@ -43,5 +43,5 @@
 <br />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Venax-dev&color=b4befe&style=flat-square&label=PINGS" />
+  <img src="https://komarev.com/ghpvc/?username=Venax-dev&color=b4befe&style=flat-square&label=Views" />
 </div>
