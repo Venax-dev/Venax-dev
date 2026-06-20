@@ -30,7 +30,7 @@
 
 ---
 
-### 📊 METRICS
+### 📊 STATS
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venax-dev&layout=compact&theme=catppuccin_mocha&hide_border=true&title_color=b4befe&text_color=cdd6f4&bg_color=1e1e2e" width="49%" />
 </p>
